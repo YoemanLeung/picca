@@ -1,3 +1,6 @@
+<img src="docs/picca_logo.svg" width=350>
+
+
 # picca
 [![Coverage Status](https://coveralls.io/repos/github/igmhub/picca/badge.svg?branch=master)](https://coveralls.io/github/igmhub/picca?branch=master)
 
